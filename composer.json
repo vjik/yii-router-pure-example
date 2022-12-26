@@ -1,0 +1,21 @@
+{
+    "name": "vjik/yii-router-pure-example",
+    "autoload": {
+        "psr-4": {
+            "Vjik\\Yii\\RouterPureExample\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sergei Predvoditelev",
+            "email": "sergei@predvoditelev.ru"
+        }
+    ],
+    "require": {
+        "httpsoft/http-message": "^1.0",
+        "yiisoft/router": "^1.2",
+        "yiisoft/router-fastroute": "^1.1",
+        "httpsoft/http-server-request": "^1.0",
+        "yiisoft/di": "^1.1"
+    }
+}
